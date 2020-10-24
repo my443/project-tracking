@@ -1,0 +1,4 @@
+[18-Oct-2020 01:50:54 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in C:\Users\John\Documents\FortyFour-Three\Projects\67 15 Days of Laravel\07dayseven\todo\app\Http\Controllers\TodoController.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\Users\John\Documents\FortyFour-Three\Projects\67 15 Days of Laravel\07dayseven\todo\app\Http\Controllers\TodoController.php on line 8
