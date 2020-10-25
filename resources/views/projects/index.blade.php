@@ -9,8 +9,9 @@
                 </div>
                 </div>
                 <div class="col">
-				<div class="pull-right">
+				<div class="pull-right text-right">
 					<a class="btn btn-success" href="{{ route('projects.create') }}"> Create New Project</a>
+					
 				</div>	
             </div>
         </div>
